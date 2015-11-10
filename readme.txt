@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git for the other add.	
 My stupid boss still perform SVN.
 Creating a new branch is quick AND simple.
+Git merge will new commit.
